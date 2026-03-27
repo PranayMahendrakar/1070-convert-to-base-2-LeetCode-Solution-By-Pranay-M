@@ -4,3 +4,4 @@
 - [2026-03-23T10:41:03Z] chore: remove deprecated API calls
 - [2026-03-23T11:46:51Z] fix: handle null pointer exception
 - [2026-03-23T10:51:19Z] test: add unit tests for core module
+- [2026-03-27T18:04:58Z] fix: resolve edge case in input validation
